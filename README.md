@@ -5,13 +5,14 @@ This repository contains a **Snakemake pipeline** for:
 3. Analyzing and benchmarking inference quality (TP/FP rate, PPV).
 It's part of a Manuscript:
 
-# Climate-Driven Functional Shifts in Marine Food Webs from sedaDNA and Network Analysis
+# Past subarctic marine food web shifts recovered by sedaDNA and network analysis
 
 ## Authors  
-- **Viktor Dinkel** (¹,²) – [viktor.dinkel@awi.de](mailto:viktor.dinkel@awi.de)  
+- **Viktor Dinkel** (¹,²)
 - **Marc-Thorsten Hütt** (²)  
+- **Stella Z. Buchwald** (¹)
+- **Amelie Smith-Tønnessen** (¹) 
 - **Ulrike Herzschuh** (¹)  
-- **Stella Z. Buchwald** (¹) †  
 - **Kathleen R. Stoof-Leichsenring** (¹) *  
 
 ## Affiliations  
