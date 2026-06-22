@@ -3,21 +3,8 @@ This repository contains a **Snakemake pipeline** for:
 1. Simulating multi-species predator-prey dynamics using the **generalized Lotka-Volterra (gLV) model**.
 2. Inferring ecological networks using seven different inference methods.
 3. Analyzing and benchmarking inference quality (TP/FP rate, PPV).
-It's part of a Manuscript:
 
-# Past subarctic marine food web shifts recovered by sedaDNA and network analysis
-
-## Authors  
-- **Viktor Dinkel** (¹,²)
-- **Marc-Thorsten Hütt** (²)  
-- **Stella Z. Buchwald** (¹)
-- **Amelie Smith-Tønnessen** (¹) 
-- **Ulrike Herzschuh** (¹)  
-- **Kathleen R. Stoof-Leichsenring** (¹) *  
-
-## Affiliations  
-¹ Alfred-Wegener-Institute, Polar Terrestrial Environmental Systems, Potsdam, Germany  
-² Constructor University Bremen, Germany  
+This repository is part of the research article: "Past subarctic marine food web shifts recovered by sedaDNA and network analysis" authored by Viktor Dinkel, Marc-Thorsten Hütt, Stella Z. Buchwald, Amelie Smith-Tønnessen, Ulrike Herzschuh and Kathleen R. Stoof-Leichsenring.
 
 ## Requirements
 
